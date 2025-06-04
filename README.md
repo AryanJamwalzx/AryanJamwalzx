@@ -12,8 +12,10 @@
 
 ## 👨‍💼 About Me
 
-Hi! I'm **Aryan**, a Business Analyst who mixes data analysis with a dash of humor and a lot of dashboards.  
-I turn raw data into insights, run SQL like spells, and use GPT like my sidekick.  
+Hi! I'm **Aryan**, a Business Analyst who mixes data analysis with a dash of humor and a lot of dashboards.
+
+I turn raw data into insights, run SQL like spells, and use GPT like my sidekick.
+
 When I’m not fixing revenue leaks, I’m building dashboards that make decision-makers smile.
 
 ---
@@ -29,12 +31,15 @@ When I’m not fixing revenue leaks, I’m building dashboards that make decisio
 ## 🚀 Highlight Projects
 
 ### 📉 ProfitShield – AI Revenue Leakage Detection
+
 Power BI + GPT + SQL dashboard that uncovered **35% hidden revenue leaks** & automated root-cause insights.
 
-### 🛵 Blinkit Fast Commerce Analytics  
+### 🛵 Blinkit Fast Commerce Analytics
+
 Analyzed 1M+ transactions → **17.5% rise in repeat purchases** & faster stakeholder reporting.
 
-### 🏅 Olympics Injury Prediction  
+### 🏅 Olympics Injury Prediction
+
 Forecasted injuries using Python models → **18% improved accuracy** with stunning Power BI visuals.
 
 ---
@@ -47,7 +52,8 @@ Forecasted injuries using Python models → **18% improved accuracy** with stunn
 
 ---
 
-## 🎓 Education  
+## 🎓 Education
+
 **B.Tech – Computer Science & Engineering**  
 Chandigarh University (Expected July 2025)
 
@@ -55,8 +61,19 @@ Chandigarh University (Expected July 2025)
 
 ## 📫 Connect With Me
 
-- 📧 [aryanjamwalzx@gmail.com](mailto:aryanjamwalzx@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/aryanjamwalz)
+<p align="center">
+  <a href="mailto:aryanjamwalzx@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/aryanjamwalz" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/aryanjamwalzx?igsh=ZmhsZW9wZXJOTl3" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
@@ -68,6 +85,6 @@ Chandigarh University (Expected July 2025)
 
 ---
 
-## ✨ Motto  
-_“In a world full of dashboards, be the insight no one can ignore.”_
+## ✨ Motto
 
+_<em>“In a world full of dashboards, be the insight no one can ignore.”</em>_
